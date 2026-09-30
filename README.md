@@ -6,7 +6,7 @@
 
 <img src="docs/screenshots/00-title.jpg" alt="The p(doom) title card with the gauge at 99.9%" width="100%" />
 
-[**Download GenMotion**](https://genmotion.dev/download) · [Website](https://genmotion.dev) · [Pricing](https://genmotion.dev/pricing) · [Blog](https://genmotion.dev/blog)
+[**Download GenMotion**](https://genmotion.dev/download) · [Website](https://genmotion.dev) · [Blog](https://genmotion.dev/blog)
 
 </div>
 
@@ -80,8 +80,6 @@ Every frame of this video is a pure function of time. It uses no keyframed After
 | macOS (Apple Silicon) | [**Download for Mac**](https://genmotion.dev/download) |
 | Command line | `curl -fsSL https://genmotion.dev/install.sh \| sh` |
 
-The free plan includes unlimited projects and 5 exports a month, with no watermark. Pro adds unlimited exports, voiceover and image generation. See [pricing](https://genmotion.dev/pricing) for details.
-
 ## Open this project
 
 1. [Install GenMotion](https://genmotion.dev/download).
@@ -132,6 +130,6 @@ The song's beat grid (132 BPM) lives in `components/music.ts`. Cuts, camera kick
 <div align="center">
 
 Made with [GenMotion](https://genmotion.dev), the AI motion-video studio.
-**[Download it free →](https://genmotion.dev/download)**
+**[Download it →](https://genmotion.dev/download)**
 
 </div>
