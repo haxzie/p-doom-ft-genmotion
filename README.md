@@ -1,4 +1,4 @@
-# You are a world class motion
+# P(DOOM) Motion design by Claude Opus 5.5 and GenMotion
 
 A motion video, written as code. The frames are a pure function of time, so the
 preview and the exported MP4 are the same thing rendered twice.
